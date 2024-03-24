@@ -1,0 +1,4 @@
+[22-Jan-2024 10:06:40 UTC] PHP Warning:  filesize(): stat failed for https://wordaccord.tech/doc/doc/document.html in /home/worddhci/public_html/doc/index.php on line 6
+[22-Jan-2024 10:09:10 UTC] PHP Warning:  filesize(): stat failed for https://wordaccord.tech/doc/doc/document.html in /home/worddhci/public_html/doc/index.php on line 6
+[22-Jan-2024 10:15:13 UTC] PHP Warning:  filesize(): stat failed for https://wordaccord.tech/doc/document.html in /home/worddhci/public_html/doc/index.php on line 6
+[22-Jan-2024 11:37:44 UTC] PHP Warning:  filesize(): stat failed for https://wordaccord.tech/doc/test.html in /home/worddhci/public_html/doc/index.php on line 6
